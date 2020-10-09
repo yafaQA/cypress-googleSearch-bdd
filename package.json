@@ -1,0 +1,19 @@
+{
+  "name": "cypress-googlesearch-bdd",
+  "version": "1.0.0",
+  "description": "Keyword search in google using Cypress and Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yafaQA/cypress-googleSearch-bdd.git"
+  },
+  "author": "yafaQA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yafaQA/cypress-googleSearch-bdd/issues"
+  },
+  "homepage": "https://github.com/yafaQA/cypress-googleSearch-bdd#readme"
+}
