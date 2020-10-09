@@ -4,7 +4,8 @@
   "description": "Keyword search in google using Cypress and Cucumber",
   "main": "index.js",
   "devDependencies": {
-    "cypress": "5.2.0"
+    "cypress": "5.2.0",
+    "cypress-cucumber-preprocessor": "^2.0.1"
   },
   "scripts": {
     "cypress:open": "npx cypress open",
