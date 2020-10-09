@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Keyword search in google using Cypress and Cucumber",
   "main": "index.js",
+  "devDependencies": {
+    "cypress": "5.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
