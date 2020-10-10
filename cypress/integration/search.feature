@@ -1,4 +1,4 @@
-Feature: Search
+Feature: Keywords search in google
 
 Scenario Outline:  
     Given I am at google page
