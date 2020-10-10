@@ -5,7 +5,10 @@
   "main": "index.js",
   "devDependencies": {
     "cypress": "5.2.0",
-    "cypress-cucumber-preprocessor": "^2.0.1"
+    "cypress-cucumber-preprocessor": "^2.5.5"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/integration"
   },
   "scripts": {
     "cypress:open": "npx cypress open",
