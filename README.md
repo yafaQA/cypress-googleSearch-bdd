@@ -13,11 +13,14 @@ Two possible options:
 
   **GUI**
 
-  `npm run cypress:open`
+  - run `npm run cypress:open`
+  - Click on `search.feature` file from GUI
 
 
   **CLI**
 
   `npm run cypress:run`
   
-  
+ 
+## Videos
+The video recorded during the test run can be found in `cypress/videos`. You can also download the video.
