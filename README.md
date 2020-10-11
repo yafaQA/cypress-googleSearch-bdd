@@ -17,10 +17,21 @@ Two possible options:
   - Click on `search.feature` file from GUI
 
 
-  **CLI**
+  **Command line**
 
   `npm run cypress:run`
   
  
 ## Videos
 The video recorded during the test run can be found in `cypress/videos`. You can also download the video.
+
+
+### Continuous integration 
+
+Cypress should run on all CI providers. 
+
+You need to add `npm run cypress:run` in your CI provider configuration file.
+
+### How to integrate tests in Deployment process?
+
+In product deployment process, cypress tests should be executed after unit & integration tests.
